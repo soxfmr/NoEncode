@@ -1,0 +1,17 @@
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\NoEncode.exe.config
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\NoEncode.exe
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\NoEncode.pdb
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\mscorlib.dll
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\zh-Hans\mscorlib.resources.dll
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\normidna.nlp
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\normnfc.nlp
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\normnfd.nlp
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\normnfkc.nlp
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Debug\normnfkd.nlp
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Debug\NoEncode.csprojResolveAssemblyReference.cache
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Debug\NoEncode.CodeChoose.resources
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Debug\NoEncode.MainForm.resources
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Debug\NoEncode.Properties.Resources.resources
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Debug\NoEncode.csproj.GenerateResource.Cache
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Debug\NoEncode.exe
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Debug\NoEncode.pdb

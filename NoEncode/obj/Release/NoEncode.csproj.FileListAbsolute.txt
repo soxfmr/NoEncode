@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NoEncode\NoEncode\bin\Release\NoEncode.exe.config
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Release\NoEncode.exe.config
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Release\NoEncode.exe
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\bin\Release\NoEncode.pdb
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Release\NoEncode.CodeChoose.resources
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Release\NoEncode.MainForm.resources
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Release\NoEncode.Properties.Resources.resources
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Release\NoEncode.csproj.GenerateResource.Cache
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Release\NoEncode.exe
+C:\Users\HuangYu\Downloads\NoEncode-master\NoEncode-master\NoEncode\obj\Release\NoEncode.pdb
